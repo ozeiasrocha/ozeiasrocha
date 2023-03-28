@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ozeiasrocha, developer and chef.
-- 🔭 I’m currently working with Javascript and DBA on Betha Systems (public administration).
+- 🔭 I’m currently working with DBA, HTML5, Python, MySql, Postgres, JavaScript.
+-  ✨ Data migration on Betha Systems (public administration).
 - 👀 I’m interested in collaborate and lean.
 - 🌱 I’m currently learning python, react and groovy.
 - 💞️ I’m looking to collaborate on some projects.
